@@ -10,7 +10,7 @@ MKDocs website for TRAC TRAIN 2023
 Follow the [Material for MKDocs instructions](https://squidfunk.github.io/mkdocs-material/getting-started/)
 
 ```
-$ git clone TranslationalAICenterISU/aitrends2023
+$ git clone TranslationalAICenterISU/aitrends2023v2
 $ cd aitrends2023
 $ pip install mkdocs-material
 $ mkdocs serve
